@@ -7,7 +7,7 @@ int main() {
 	for(int i = 0; i<10; i++) {
 		a += arreglo[i]+i;
 	}
-	cout<<a<<" "<<endl;
+	cout<<a<<" es el resultado"<<endl;
 	return 0;
 
 }
